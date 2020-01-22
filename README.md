@@ -1,4 +1,4 @@
-# Class Activity 1 part two
+# Class Activity 1 part two - Zachary Black, Christopher Eichstedt and Deeptanshu Das
 
 Your first paired programming problem!
 
